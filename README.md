@@ -373,8 +373,8 @@ Figma
 **GitHub:**
 [richard4729](https://github.com/richard4729)
 
-[🔗 GitHub Repository](https://github.com/richard4729/CSI204)
-[🌐 GitHub Pages](https://richard4729.github.io/CSI204/)
+[🔗 GitHub Repository](https://github.com/richard4729/workshop-01)
+[🌐 GitHub Pages](https://richard4729.github.io/workshop-01/)
 
 © CSI204 Workshop #1
 
